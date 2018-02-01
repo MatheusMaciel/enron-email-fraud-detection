@@ -1,6 +1,6 @@
 # Enron Email Fraud Detection
 
-This project apply machine learning techniques to identify Enron employees who may have commited fraud based on the public Enron financial and email dataset. The code can be found [here]{poi_id.py}.
+This project apply machine learning techniques to identify Enron employees who may have commited fraud based on the public Enron financial and email dataset. The code can be found [here](poi_id.py).
 
 This project involves:
 * Dealing with imperfect, real-world dataset
